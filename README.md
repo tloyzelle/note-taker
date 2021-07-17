@@ -1,10 +1,23 @@
 # Note-Taker
 
+## Table of Contents
+
+* [Overview](#overview)
+
+* [To Install](#installation)
+
+* [Use](#use)
+
+* [License](#license)
+
+* [Questions](#questions)
+
+
 ## Overview
 
 This application allows for notes to be saved so you can look back later, as well with an express.js back end and uses a JSON file to retrierve notes.
 
-## To Install
+## Installation
 
 Make sure to install the dependencies using npm i within your terminal.
 
@@ -19,3 +32,6 @@ https://user-images.githubusercontent.com/82417321/125852270-ffe13e06-2fab-4e4f-
 
 The application is under the MIT license.
 
+## Questions
+
+If there are any questions I can be contacted through my [email](tloyzelle@gmail.com).
